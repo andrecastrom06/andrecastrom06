@@ -25,6 +25,9 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c-logo"  />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="c-logo"  />
+  <img width="12" />
   
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="28" alt="django-logo"  />
   <img width="12" />
@@ -48,6 +51,5 @@
   <img width="12" />
   
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer"/>
