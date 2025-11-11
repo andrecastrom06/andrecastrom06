@@ -81,10 +81,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="nosql-logo" />
   <img width="12" />
 
-  <!-- Selenium -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium-logo" /> 
-  <img width="12" /> 
-
   <!-- Azure -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" height="40" alt="azure-logo" /> 
   <img width="12" /> 
