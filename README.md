@@ -1,11 +1,9 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+André+Castro;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+data+engineer)](https://git.io/typing-svg)
 
-<br/>
-<br/>
-<br/>
 <br/>
 <div align="center">  
   <img
@@ -13,19 +11,22 @@
     height="195px"
     src="https://github-readme-stats.vercel.app/api?username=andrecastrom06&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"
   /> 
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecastrom06&layout=compact&hide_border=true&title_color=DC143C&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <br/>
 <div align="center">  
 </div>
+
+<h3 align="center" style="font-size:50px">🚀 Connect with me!</h3>
+
 <br/>
 
 <div align="center">
-  <h4 align="center" style="font-size:50px">🚀 Connect with me!</h4>
   <a href="https://br.linkedin.com/in/andre-castro-monteiro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<br/>
 
 <h3 align="center" style="font-size:50px">👨‍💻 I work with:</h3>
 
@@ -97,4 +98,4 @@
   <img width="12" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=100&section=footer"/>
