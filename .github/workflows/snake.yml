@@ -1,0 +1,42 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # executa a cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: andrecastrom06
+          contribution_width: 53
+          contribution_height: 7
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
+
+
+      - name: Prepare output folder
+        run: |
+          mkdir -p output
+          cp dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
+
+      - name: Commit generated snake to repository
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update snake animation"
+          file_pattern: "output/github-contribution-grid-snake.svg"
+          branch: main
+          push_options: --force
+          skip_dirty_check: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
