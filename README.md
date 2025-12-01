@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+data+engineer)](https://git.io/typing-svg)
 
 <br/>
+<!-- 
 <div align="center">  
   <img
     width="49%"
@@ -14,7 +15,7 @@
 </div>
 <br/>
 <div align="center">  
-</div>
+</div>-->
 
 <h3 align="center" style="font-size:50px">🚀 Connect with me!</h3>
 
