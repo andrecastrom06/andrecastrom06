@@ -18,7 +18,7 @@
 </div>-->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LucasSukar/LucasSukar/main/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/andrecastrom06/andrecastrom06/main/output/github-contribution-grid-snake.svg" alt="snake" />
   <br/>
   <a href="https://github.com/Platane/snk" target="_blank">
     <img src="https://user-images.githubusercontent.com/22963968/165385477-3a8165ef-4159-49e3-8852-5b3ad0f5e5d3.gif" width="400" alt="Play Snake" />
