@@ -2,20 +2,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+André+Castro;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+data+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+Data+Engineer)](https://git.io/typing-svg)
 
 <br/>
-<!-- 
-<div align="center">  
-  <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=andrecastrom06&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"
-  /> 
-</div>
-<br/>
-<div align="center">  
-</div>-->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andrecastrom06/andrecastrom06/main/output/github-contribution-grid-snake.svg" alt="snake" />
