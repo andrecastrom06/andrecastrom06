@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # executa a cada 12 horas
+    - cron: "* * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,18 +15,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-          fetch-depth: 0
 
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: andrecastrom06
-          contribution_width: 53
-          contribution_height: 7
           outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
-
 
       - name: Prepare output folder
         run: |
@@ -35,8 +32,3 @@ jobs:
         with:
           commit_message: "chore: update snake animation"
           file_pattern: "output/github-contribution-grid-snake.svg"
-          branch: main
-          push_options: --force
-          skip_dirty_check: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
