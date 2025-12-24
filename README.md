@@ -28,9 +28,7 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:andre20072006@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20André,%20vi%20seu%20perfil%20no%20GitHub!">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/andre20072006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
 
 <br/>
